@@ -20,7 +20,7 @@ The app writes power/color/brightness to `/led` in Firebase over plain HTTPS RES
 ## Requirements
 
 - [Flutter](https://docs.flutter.dev/get-started/install) (stable channel)
-- A Firebase project with the Realtime Database enabled — see the [firmware repo's README](https://github.com/DadoDz/ESP32-S3-RGB-LED-Controller) for setup, since the app and board share the same `/led` node
+- A Firebase project with the Realtime Database enabled,see the [firmware repo's README](https://github.com/DadoDz/ESP32-S3-RGB-LED-Controller) for setup, since the app and board share the same `/led` node
 
 ## Setup
 
